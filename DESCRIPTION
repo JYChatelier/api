@@ -1,0 +1,13 @@
+Package: iquale
+Title: Accès aux indicateurs d'inégalité environnementale
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jean-Yves", "Chatelier", , "Jean-Yves.Chatelier@ineris.fr", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    plumber
